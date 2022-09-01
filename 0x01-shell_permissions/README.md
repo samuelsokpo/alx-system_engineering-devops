@@ -1,1 +1,1 @@
-print groups of a user
+change user to betty for hello
