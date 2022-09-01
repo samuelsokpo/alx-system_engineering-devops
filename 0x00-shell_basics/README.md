@@ -1,1 +1,1 @@
-remove a file froma directory
+remove my first directory
