@@ -1,1 +1,1 @@
-create empty file
+give executable permission for owner to file hello
