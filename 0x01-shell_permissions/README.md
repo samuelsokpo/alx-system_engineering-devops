@@ -1,1 +1,1 @@
-list all info
+mirror permission
