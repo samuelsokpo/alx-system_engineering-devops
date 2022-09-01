@@ -1,1 +1,1 @@
-Create a script that creates a directory named thus
+create a script that creates a directory in another
