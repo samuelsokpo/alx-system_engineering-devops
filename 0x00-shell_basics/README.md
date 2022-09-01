@@ -1,1 +1,1 @@
-Display current directory contents with long formate and numbers and hidden files
+Create a script that creates a directory named my first directory
