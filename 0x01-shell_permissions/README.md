@@ -1,1 +1,1 @@
-list all file information
+list all info
