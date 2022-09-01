@@ -1,1 +1,1 @@
-create a script that creates a directory in another
+move a file from one directory to another
