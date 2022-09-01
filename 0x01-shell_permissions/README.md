@@ -1,1 +1,1 @@
-give executable permission for owner to file hello
+give rwx access to user and group and r to others
