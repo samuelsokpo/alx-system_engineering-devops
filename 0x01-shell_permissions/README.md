@@ -1,1 +1,1 @@
-who am i
+print groups of a user
