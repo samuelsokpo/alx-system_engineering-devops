@@ -1,1 +1,1 @@
-mirror permission
+copy file permissions
