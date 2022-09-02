@@ -1,1 +1,1 @@
-copy file permissions
+permission to all subdirectories
