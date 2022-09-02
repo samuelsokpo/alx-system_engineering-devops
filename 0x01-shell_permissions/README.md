@@ -1,1 +1,1 @@
-change permissions for subdirectories
+directory permission
