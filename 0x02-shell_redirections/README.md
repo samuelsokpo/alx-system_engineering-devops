@@ -1,1 +1,1 @@
-read content of file
+print content from two directories or files
