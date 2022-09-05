@@ -1,1 +1,1 @@
-duplicate last line of iacta
+delete files with js extension
