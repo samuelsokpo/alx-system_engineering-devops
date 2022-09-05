@@ -1,1 +1,1 @@
-print content from two directories or files
+print ten last lines of /etc/passwd
