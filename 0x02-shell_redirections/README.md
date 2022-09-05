@@ -1,1 +1,1 @@
-first three lines
+print standard output file
