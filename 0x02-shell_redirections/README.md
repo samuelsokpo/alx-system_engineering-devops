@@ -1,1 +1,1 @@
-print standard output file
+duplicate last line of iacta
