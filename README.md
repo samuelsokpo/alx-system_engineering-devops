@@ -1,1 +1,1 @@
-change user to betty
+print Hello, World to standard output
