@@ -1,1 +1,1 @@
-print firstlines
+first three lines
