@@ -1,1 +1,1 @@
-power divided by divide
+exponential
