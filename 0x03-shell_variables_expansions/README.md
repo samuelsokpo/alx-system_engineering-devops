@@ -1,1 +1,1 @@
-create alias for name ls and value rm
+print hello user where user is the username for the linux user
