@@ -1,1 +1,1 @@
-convert a number in base 2 to decimal
+print double letters and ommit oo
