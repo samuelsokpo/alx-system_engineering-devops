@@ -1,1 +1,1 @@
-list all local variables and environmental variables
+script that creates a new local variable
