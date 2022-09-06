@@ -1,1 +1,1 @@
-display files in folders that do not contain bin
+print all lines and include capital letters
