@@ -1,1 +1,1 @@
-print specfic words
+print number of lines that contains a pattern
