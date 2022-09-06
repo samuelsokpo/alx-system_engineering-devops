@@ -1,1 +1,1 @@
-print words containing root and three lines after them
+display files in folders that do not contain bin
