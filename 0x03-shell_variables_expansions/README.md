@@ -1,1 +1,1 @@
-print double letters and ommit oo
+print number with two decimal places
