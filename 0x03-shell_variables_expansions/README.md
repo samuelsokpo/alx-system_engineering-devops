@@ -1,1 +1,1 @@
-encode and decode text using rot13
+print every other line from input
