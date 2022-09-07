@@ -1,1 +1,1 @@
-convert a number from base ten to base sixteen
+encode and decode text using rot13
